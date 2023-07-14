@@ -2,8 +2,7 @@ package mx.com.cursojava.memorymanagement.imageanalyzer;
 
 import java.io.File;
 import java.awt.image.BufferedImage;
-import java.util.Map;
-import java.util.Set;
+
 import javax.imageio.ImageIO;
 
 import lombok.experimental.UtilityClass;
