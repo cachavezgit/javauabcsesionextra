@@ -14,7 +14,6 @@ import com.drew.metadata.gif.GifHeaderDirectory;
 import com.drew.metadata.jpeg.JpegDirectory;
 import com.drew.metadata.png.PngDirectory;
 import com.google.common.collect.ImmutableMap;
-import com.min.memory.casestudy01.entity.Metadata;
 import com.drew.imaging.ImageMetadataReader;
 
 import lombok.Builder;
